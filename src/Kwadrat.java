@@ -1,3 +1,8 @@
+/* zad.2
+        a) stworzyć klasę kwadrat i prostokat które będą dziedziczyć po klasie Figura
+        b) zaimplementować metody abstrakcyjne odpowiednimi wzorami,
+
+ */
 public class Kwadrat extends Figura {
     private double bok;
     public Kwadrat(double bok) {
